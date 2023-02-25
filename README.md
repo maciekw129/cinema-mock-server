@@ -1,4 +1,4 @@
-## cinema-mock-server
+# cinema-mock-server
 
 ### Installation steps:
 - clone this repository to your local machine with command: `git clone https://github.com/maciekw129/cinema-mock-server.git`,
